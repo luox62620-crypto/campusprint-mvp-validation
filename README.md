@@ -10,8 +10,8 @@ CampusPrint is a focused MVP concept for **no-queue residence/campus pickup prin
 
 ```text
 docs/
-  Project2_CampusPrint_v9_Repo_Link_Integrated.pdf
-  Project2_CampusPrint_v9_Repo_Link_Integrated.docx
+  Project2_CampusPrint.pdf
+  Project2_CampusPrint.docx
 experiment-plan/
   experiment_plan.md
 evidence/
@@ -65,7 +65,7 @@ The MVP is intentionally small. It focuses on a controlled **Google Form order-f
 
 ## How to use this repository
 
-1. Open `docs/Project2_CampusPrint_v9_Repo_Link_Integrated.pdf` for the final Project 2 report.
+1. Open `docs/Project2_CampusPrint.pdf` for the final Project 2 report.
 2. Review `evidence/evidence_summary.md` for summarized validation results.
 3. Check `evidence/screenshots/` for Google Form evidence screenshots.
 4. Open `prototype/index.html` locally to view a simple landing-page style MVP demo.
